@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rainydevv" target="blank"><img src="https://img.shields.io/twitter/follow/rainydevv?logo=twitter&style=for-the-badge" alt="rainydevv" /></a> </p>
 
-- 🔭 I’m currently working on [Stormki](https://Stormki.net) and [EliteRP](https://elite-rp.de) 
+- 🔭 I’m currently working on [Stormki](https://Stormki.net) and [RainyDO](https://rainydo.ch) 
 
 - 🌱 I’m currently learning **golang, kotlin, react**
 
