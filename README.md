@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **golang, rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/loickal](https://github.com/loickal)
+- 👨‍💻 All of my projects are available at [https://github.com/loickal](https://github.com/loickal) or [PulseGit](https://code.pulseflow.ch)
 
 - 📫 How to reach me **loic.kalbermatter@pulseflow.ch** [Matrix](https://matrix.to/#/@pulsedev:pulseflow.ch)
 
