@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loickal&label=Profile%20views&color=0e75b6&style=flat" alt="loickal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rainydevv" target="blank"><img src="https://img.shields.io/twitter/follow/rainydevv?logo=twitter&style=for-the-badge" alt="rainydevv" /></a> </p>
-
 - 🔭 I’m currently working on [PulseFlow](https://pulseflow.ch) and [BeamUP Live](https://beamup.live) 
 
 - 🌱 I’m currently learning **golang, rust**
@@ -15,7 +13,7 @@
 
 - ⚡ Fun fact **Love coffee**
 
-- 📫 How to reach me: Discord ([rainydev](https://discord.com/users/994277952390971412)), Twitter ([@RainyDevv](https://twitter.com/RainyDevv)), Email ([loic.kalbermatter@pulseflow.ch](mailto:loic.kalbermatter@pulseflow.ch))
+- 📫 How to reach me: Discord ([rainydev](https://discord.com/users/994277952390971412)), Email ([loic.kalbermatter@pulseflow.ch](mailto:loic.kalbermatter@pulseflow.ch))
 
 ---
 
@@ -24,9 +22,9 @@
 
 [![](https://discord.c99.nl/widget/theme-4/994277952390971412.png)](https://discord.com/users/994277952390971412)
 <p align="left">
-<a href="https://twitter.com/rainydevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rainydevv" height="30" width="40" /></a>
 <a href="https://instagram.com/loickal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loickal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rainydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rainydev" height="30" width="40" /></a>
+<a href="https://matrix.to/#/@pulsedev:pulseflow.ch" target="blank"><img align="center" src="https://matrix.org/images/matrix-logo-white.svg" alt="@pulsedev:pulseflow.ch" height="30" width="40" /></a>
 </p>
 <br>
 
