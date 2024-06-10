@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/rainydevv" target="blank"><img src="https://img.shields.io/twitter/follow/rainydevv?logo=twitter&style=for-the-badge" alt="rainydevv" /></a> </p>
 
-- 🔭 I’m currently working on [Stormki](https://Stormki.net) and [RainyDO](https://rainydo.ch) 
+- 🔭 I’m currently working on [PulseFlow](https://pulseflow.ch) and [BeamUP Live](https://beamup.live) 
 
-- 🌱 I’m currently learning **golang, kotlin, react**
+- 🌱 I’m currently learning **golang, rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/loickal](https://github.com/loickal)
 
-- 📫 How to reach me **contact.rainydev@gmail.com**
+- 📫 How to reach me **loic.kalbermatter@pulseflow.ch** [Matrix](https://matrix.to/#/@pulsedev:pulseflow.ch)
 
 - ⚡ Fun fact **Love coffee**
 
-- 📫 How to reach me: Discord ([𝕽𝖆𝖎𝖓𝖞𝕯𝖊𝖛#4003](https://discord.com/users/605173415741095957)), Twitter ([@RainyDevv](https://twitter.com/RainyDevv)), Email ([contact.rainydev@gmail.com](mailto:contact.rainydev@gmail.com))
+- 📫 How to reach me: Discord ([𝕽𝖆𝖎𝖓𝖞𝕯𝖊𝖛#4003](https://discord.com/users/605173415741095957)), Twitter ([@RainyDevv](https://twitter.com/RainyDevv)), Email ([loic.kalbermatter@pulseflow.ch](mailto:loic.kalbermatter@pulseflow.ch))
 
 ---
 
