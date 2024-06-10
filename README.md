@@ -15,14 +15,14 @@
 
 - ⚡ Fun fact **Love coffee**
 
-- 📫 How to reach me: Discord ([𝕽𝖆𝖎𝖓𝖞𝕯𝖊𝖛#4003](https://discord.com/users/605173415741095957)), Twitter ([@RainyDevv](https://twitter.com/RainyDevv)), Email ([loic.kalbermatter@pulseflow.ch](mailto:loic.kalbermatter@pulseflow.ch))
+- 📫 How to reach me: Discord ([rainydev](https://discord.com/users/994277952390971412)), Twitter ([@RainyDevv](https://twitter.com/RainyDevv)), Email ([loic.kalbermatter@pulseflow.ch](mailto:loic.kalbermatter@pulseflow.ch))
 
 ---
 
 ### 📱 Social Media
 
 
-[![](https://discord.c99.nl/widget/theme-4/605173415741095957.png)](https://discord.com/users/605173415741095957)
+[![](https://discord.c99.nl/widget/theme-4/994277952390971412.png)](https://discord.com/users/994277952390971412)
 <p align="left">
 <a href="https://twitter.com/rainydevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rainydevv" height="30" width="40" /></a>
 <a href="https://instagram.com/loickal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loickal" height="30" width="40" /></a>
